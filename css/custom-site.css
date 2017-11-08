@@ -1,0 +1,20 @@
+.mybackground1 {
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+p{
+    text-align: left;
+    padding-top: 1em;
+}
+h1.project{
+   text-align: left;
+}
+h1.cover-heading{
+    text-align: center;
+}
+.mybackground1{
+    background-color: #d9edf7;
+}
+.container-fluid{
+    width:60%;
+}
